@@ -1,8 +1,1 @@
-{
-  "appId": "com.jfagro.sales",
-  "appName": "J F Agro",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
-}
+{"appId":"com.jfagro.sales","appName":"J F Agro","webDir":"www"}
